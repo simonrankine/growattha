@@ -1,6 +1,7 @@
 name: "Growatt HA"
 version: "1.0.0"
 slug: growattha
+init: false
 description: >-
   "A Home Assistant plug-in for Growatt"
 arch:
